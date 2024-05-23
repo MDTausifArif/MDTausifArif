@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm currently studying at MMHAPU. <br>Where I’m deeply immersed in the world of coding. <br>My passion lies in learning and mastering various programming languages.<br>With a particular focus on Artificial Intelligence. <br>I love diving into the intricacies of backend processes and understanding <br>the underlying mechanics of software development.
-https://learn.microsoft.com/api/achievements/share/en-us/TAUSIFarif-7607/F2KKLQVX?sharingId=C237EE05D2C9115B
+
 
 
 # 💻 Tech Stack:
