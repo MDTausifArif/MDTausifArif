@@ -3,7 +3,7 @@
 
 # Foundational C# Certification with Microsoft
 
-![Certification](https://freecodecamp.org/certification/fcc25e8a2ac-6d7f-443a-b5ab-598b890a12f9/foundational-c-sharp-with-microsoft)
+![Certification](https://media.licdn.com/dms/image/D4D22AQFhPbAPIzRXng/feedshare-shrink_800/0/1716474027538?e=1719446400&v=beta&t=K_iQW42xqltF-GxrVNeBwKrpr_HBqnP8JsmQ8OGgBFE)
 
 
 
