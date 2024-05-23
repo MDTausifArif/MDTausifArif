@@ -1,6 +1,11 @@
 # 💫 About Me:
 📚 I'm currently studying at MMHAPU.<br>👨‍💻 Where I’m deeply immersed in the world of coding.<br>🚀 My passion lies in learning and mastering various programming languages.<br>🤖 With a particular focus on Artificial Intelligence.<br>💡 I love diving into the intricacies of backend processes. <br>💻 Understanding the underlying mechanics of software development fuels my passion.
 
+# Foundational C# Certification with Microsoft
+
+![Certification](https://www.freecodecamp.org/certification/TausifArif/foundational-c-sharp-with-microsoft)
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/KpFAEdqp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phulwari_shoot) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/TAUSIF-ARIF-SABRI) 
