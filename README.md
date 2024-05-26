@@ -25,9 +25,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### Badges
-
-![GitHub repo size](https://img.shields.io/github/repo-size/:user/:repo)
-![GitHub contributors](https://img.shields.io/github/contributors/:user/:repo)
-![GitHub stars](https://img.shields.io/github/stars/:user/:repo?style=social)
-
