@@ -24,3 +24,10 @@
 [![](https://visitcount.itsvg.in/api?id=MDTausifArif&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### Badges
+
+![GitHub repo size](https://img.shields.io/github/repo-size/:user/:repo)
+![GitHub contributors](https://img.shields.io/github/contributors/:user/:repo)
+![GitHub stars](https://img.shields.io/github/stars/:user/:repo?style=social)
+
