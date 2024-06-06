@@ -6,6 +6,10 @@
 ![Certification](https://media.licdn.com/dms/image/D4D22AQFhPbAPIzRXng/feedshare-shrink_800/0/1716474027538?e=1719446400&v=beta&t=K_iQW42xqltF-GxrVNeBwKrpr_HBqnP8JsmQ8OGgBFE)
 
 
+Certification in Git & Git-Hub
+![Certification](https://www.linkedin.com/posts/md-tausif-arif-994560285_certificate-activity-7204512735135436800-Ja6u?utm_source=share&utm_medium=member_android)
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/KpFAEdqp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phulwari_shoot) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/TAUSIF-ARIF-SABRI) 
