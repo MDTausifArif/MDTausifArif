@@ -5,7 +5,7 @@
 
 ![Certification](https://media.licdn.com/dms/image/D4D22AQFhPbAPIzRXng/feedshare-shrink_800/0/1716474027538?e=1719446400&v=beta&t=K_iQW42xqltF-GxrVNeBwKrpr_HBqnP8JsmQ8OGgBFE)
 
-
+# Certification in Git and Github 
 ![Certification](https://media.licdn.com/dms/image/D4D22AQENJq5DHjY1pQ/feedshare-shrink_800/0/1717690727252?e=2147483647&v=beta&t=sWacD9KdHoAKKhGui2Y8vdQWj2iBXcpA7fe8UhmTV9E)
 
 
