@@ -6,8 +6,7 @@
 ![Certification](https://media.licdn.com/dms/image/D4D22AQFhPbAPIzRXng/feedshare-shrink_800/0/1716474027538?e=1719446400&v=beta&t=K_iQW42xqltF-GxrVNeBwKrpr_HBqnP8JsmQ8OGgBFE)
 
 
-Certification in Git & Git-Hub
-![Certification](https://www.linkedin.com/posts/md-tausif-arif-994560285_certificate-activity-7204512735135436800-Ja6u?utm_source=share&utm_medium=member_android)
+[My Certificate](https://github.com/MDTausifArif/MDTausifArif/blob/main/certificate.pdf)
 
 
 
