@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-📚 I'm currently studying at MMHAPU.<br>👨‍💻 Where I’m deeply immersed in the world of coding.<br>🚀 My passion lies in learning and mastering various programming languages.<br>🤖 With a particular focus on Artificial Intelligence.<br>💡 I love diving into the intricacies of backend processes. <br>💻 Understanding the underlying mechanics of software development fuels my passion.
+📚 I'm currently studying at MMHAPU.<br>👨‍💻.
 
 # Foundational C# Certification with Microsoft
 
