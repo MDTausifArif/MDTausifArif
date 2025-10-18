@@ -1,6 +1,4 @@
 
-# 💫 About Me:
-📚 I'm currently studying at MMHAPU.<br>👨‍💻.
 
 # Foundational C# Certification with Microsoft
 
