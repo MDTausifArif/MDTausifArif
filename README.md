@@ -1,6 +1,8 @@
 # Hi there, I'm Tausif Arif 👋
 
-I am a software developer specializing in building responsive and scalable systems. I focus on delivering practical, secure, and highly functional digital solutions tailored to organizational needs, ranging from inventory control systems to financial management platforms. 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=039BE5&width=435&lines=Full-Stack+Developer;Software+Engineer;Building+Robust+Systems" alt="Typing SVG" /></a>
+
+I am a software developer specializing in building responsive, full-stack web applications and scalable systems. I focus on delivering practical, secure, and highly functional digital solutions tailored to organizational needs, ranging from inventory control systems to financial management platforms and desktop applications. 
 
 ---
 
@@ -16,6 +18,10 @@ I am a software developer specializing in building responsive and scalable syste
     A dynamic community website featuring an interactive photo carousel, automated gallery updates, YouTube integration, and a centralized notice board for official announcements.
 *   **PIST School Management System**
     A robust administrative platform built for the Phulwari Institute of Science & Technology to streamline daily school management and institutional operations.
+*   **MyNotepad**
+    A lightweight, responsive desktop text editor application developed entirely using Visual Basic and the .NET Framework, replicating and enhancing core notepad functionalities.
+*   **Desktop Calculator**
+    A fully functional desktop calculator utility demonstrating clean UI design and reliable event-driven programming logic.
 *   **Python AI-Bot Training**
     An academic research project focused on building and training an artificial intelligence bot using Python, exploring core machine learning and natural language processing concepts.
 
@@ -54,14 +60,16 @@ I am a software developer specializing in building responsive and scalable syste
 
 ---
 
-### 📊 GitHub Activity
+### 📈 GitHub Activity & Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MDTausifArif&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDTausifArif&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
+  <!-- Animated Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDTausifArif&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MDTausifArif&theme=radical&hide_border=false" width="100%" />
+  <!-- Reliable Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDTausifArif&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
