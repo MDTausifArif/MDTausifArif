@@ -1,6 +1,5 @@
 # Hi there, I'm Tausif Arif 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=039BE5&width=435&lines=Full-Stack+Developer;Software+Engineer;Building+Robust+Systems" alt="Typing SVG" /></a>
 
 I am a software developer specializing in building responsive, full-stack web applications and scalable systems. I focus on delivering practical, secure, and highly functional digital solutions tailored to organizational needs, ranging from inventory control systems to financial management platforms and desktop applications. 
 
